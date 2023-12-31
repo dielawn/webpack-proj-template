@@ -1,1 +1,1 @@
-{"version":3,"file":"bundle.js","mappings":";;;;;AAAA,oB","sources":["webpack://webpack-proj-template/./src/app.js"],"sourcesContent":["console.log('hello')"],"names":[],"sourceRoot":""}
+{"version":3,"file":"bundle.js","mappings":";;;;;AAAAA,OAAO,CAACC,GAAG,CAAC,OAAO,CAAC,C","sources":["webpack://webpack-proj-template/./src/app.js"],"sourcesContent":["console.log('hello')"],"names":["console","log"],"sourceRoot":""}
