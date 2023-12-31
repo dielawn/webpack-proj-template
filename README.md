@@ -28,3 +28,4 @@ This command will bundle your code based on the configuration in webpack.config.
 Step 7: Test your build You can now test your build by opening the index.html file in your browser and checking the console. Make sure you have an index.html file that includes the bundle.js file.
 Congratulations! You have successfully installed and set up Webpack for your project.
 Note: This is a basic setup to get you started with Webpack. As your project grows, you may need to configure additional loaders, plugins, or other features provided by Webpack to handle different file types and optimize your build process.# webpack-proj-template-w-babel
+# webpack-proj-template-w-babel
